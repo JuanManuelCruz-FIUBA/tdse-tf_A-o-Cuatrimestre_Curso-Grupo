@@ -2,7 +2,7 @@
 ## Trabajo Final - Año-Cuatrimestre - Curso-Grupo: Título del Trabajo Final
 
 ### Bitácora de Entregas
-| N°   | Descripción             | Fecha    | 
+| N°   | Descripción             | Fecha    |
 | :--: | :---------------------  | :------: |
 | 01   | README.md               |          |
 | 02   | Propuesta.md            |          |
