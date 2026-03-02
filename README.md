@@ -3,7 +3,7 @@ FIUBA - Electrónica - Taller de Sistemas Embebidos - Trabajo Final - Año-Cuatr
 
 **Bitácora de Entregas**
 | N° | Descripción             | Fecha    | 
-| :--: | :------------------------| :--------: |
+| :--: | :---------------------| :--------: |
 | 01 | README.md               | 16/11/26 |
 | 02 | Propuesta.md            |          |
 | 03 | Informe_de_Avance.md    |          |
