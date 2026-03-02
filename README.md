@@ -2,9 +2,9 @@
 ## Trabajo Final - Año-Cuatrimestre - Curso-Grupo: Título del Trabajo Final
 
 ### Bitácora de Entregas
-| N°   | Descripción             | Fecha    |
-| :--: | :---------------------  | :------: |
-| 01   | README.md               |          |
-| 02   | Propuesta.md            |          |
-| 03   | Informe_de_Avance.md    |          |
-| 04   | Memoria_Video_Código.md |          |
+| N°   | Descripción             | Fecha    | Deadline  |
+| :--: | :---------------------  | :------: | :-------: |
+| 01   | **README.md**               |          | **Semana 09** |
+| 02   | **Propuesta.md**            |          | **Semana 11** |
+| 03   | **Informe_de_Avance.md**    |          | **Semana 14** |
+| 04   | **Memoria_Video_Código.md** |          | **Semana 16** |
