@@ -1,8 +1,7 @@
 # tdse-tf_A-o-Cuatrimestre_Curso-Grupo
 FIUBA - Electrónica - Taller de Sistemas Embebidos - Trabajo Final - Año-Cuatrimestre - Curso-Grupo: Título del Trabajo Final
 
-### Works OK 
-| Bitácora de Entregas                                      |
+**Bitácora de Entregas**
 | ------------------- | ---------------- | ---------------- |
 | Board               | STM32CubeIDE-Win | STM32CubeIDE-DEB |
 | ------------------- | ---------------- | ---------------- |
