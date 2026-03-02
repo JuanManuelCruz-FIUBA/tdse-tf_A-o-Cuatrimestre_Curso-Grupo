@@ -2,8 +2,9 @@
 FIUBA - Electrónica - Taller de Sistemas Embebidos - Trabajo Final - Año-Cuatrimestre - Curso-Grupo: Título del Trabajo Final
 
 **Bitácora de Entregas**
-| Board               | STM32CubeIDE-Win | STM32CubeIDE-DEB |
-| ------------------- | ---------------- | ---------------- |
-| NUCLEO-F103RB       | OK - GS          |                  |              
-| Blue Pill Original  | OK - JMC         |                  |
-| Blue Pill Clone     | OK - JMC         | OK - PIM         |
+| N° | Descripción             | Fecha | 
+| -- | ------------------------| ----- |
+| 01 | README.md               |       |
+| 02 | Propuesta.md            |       |
+| 03 | Informe_de_Avance.md    |       |
+| 04 | Memoria_Video_Código.md |       |
